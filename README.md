@@ -13,5 +13,5 @@ utilizando as tecnologias:</p>
 - CSS
 </h3>
 <br> 
-<img src="
+<img src="https://github.com/Andreza27/Nos-Importamos-/blob/main/img/Captura%20de%20tela%202025-02-10%20175633.png?raw=true" /> 
 <img src="https://github.com/Andreza27/Nos-Importamos-/blob/main/img/Captura%20de%20tela%202025-02-10%20175604.png?raw=true" />
