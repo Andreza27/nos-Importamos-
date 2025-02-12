@@ -6,7 +6,7 @@
 }
 html {background-color: rgb(204, 229, 250) ;}
 header { 
-    margin:44px 0 144px 76px ;
+    margin:27px 0 55px 76px ;
     }
  .link-header {
         font-weight:600 ;
@@ -30,8 +30,8 @@ header {
         cursor: pointer;
     }
 .logo-image{
-    width:568 px ;
-    height: 500 px;
+    width:568px ;
+    height: 500px;
     margin-left: 125px;
     display: inline-block ;
     }
@@ -43,8 +43,8 @@ header {
      
   h1 {
         font-weight:900 ;
-        font-size:100px ;
-        line-height:122px ;
+        font-size:76px ;
+        line-height:73px ;
         color:#3e4140;
         margin-bottom: 20px; 
         
@@ -52,8 +52,8 @@ header {
      
   h2 {
         font-weight:500 ;
-        font-size:58px ;
-        line-height:71px ;
+        font-size:39px ;
+        line-height:11px ;
         color: #3e4140
     }
    p {
@@ -61,9 +61,9 @@ header {
         font-size:24px ;
         line-height:29px ;
         color: #3e4140;
-         width: 515px;
+         width: 482px;
         margin-top: 32px;
-         margin-bottom: 65px;}
+         margin-bottom: 28px;}
           
  .button-main{ 
         background: #83ec3d;
