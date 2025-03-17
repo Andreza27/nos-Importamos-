@@ -100,9 +100,9 @@ header {
     .title2{
         font-size: 40px;
         line-height: 37px;
-        width:92%;
+        width:121%;
         height:6% ;
-        margin: 21px 0px 0px -28px ;
+        margin: 13px 0px 16px -72px ;
         text-align: center;
     }
     
@@ -113,7 +113,7 @@ header {
 
     .button-main {
         max-width: 208px;
-        margin: 10px 0px 0px -7px  ;
+        margin: 20px 0px 0px -7px  ;
     }
 
 }
