@@ -80,17 +80,17 @@ header {
 
 @media screen and (max-width: 900px ){
     .logo-image {
-        max-width: 410px;
+        max-width: 316px;
         margin: 60px 0px 16px 11px ;
-        height: 445px;
+        height: 341px;
      }
     
     .link-menu{
         display: none;
     }
     .title {
-        font-size: 53px;
-        line-height: 56px;
+        font-size: 43px;
+        line-height: 40px;
         width: 110%;
         height:33% ;
         margin: 0px 0px 9px -47px ;
@@ -98,8 +98,8 @@ header {
     }
 
     .title2{
-        font-size: 51px;
-        line-height: 46px;
+        font-size: 40px;
+        line-height: 37px;
         width:92%;
         height:6% ;
         margin: 21px 0px 0px -28px ;
@@ -112,6 +112,7 @@ header {
     }
 
     .button-main {
+        max-width: 208px;
         margin: 46px 0px 0px -7px  ;
     }
 
