@@ -81,7 +81,7 @@ header {
 @media screen and (max-width: 900px ){
     .logo-image {
         max-width: 316px;
-        margin: 20px 0px 16px 11px ;
+        margin: 10px 0px 16px 11px ;
         height: 341px;
      }
     
