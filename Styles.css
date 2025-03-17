@@ -43,8 +43,8 @@ header {
      
   h1 {
         font-weight:900 ;
-        font-size:76px ;
-        line-height:73px ;
+        font-size:57px ;
+        line-height:59px ;
         color:#3e4140;
         margin-bottom: 20px; 
         
@@ -52,7 +52,7 @@ header {
      
   h2 {
         font-weight:500 ;
-        font-size:39px ;
+        font-size:33px ;
         line-height:11px ;
         color: #3e4140
     }
@@ -62,16 +62,16 @@ header {
         line-height:29px ;
         color: #3e4140;
          width: 482px;
-        margin-top: 32px;
-         margin-bottom: 28px;}
+        margin-top: 19px;
+         margin-bottom: 15px;}
           
  .button-main{ 
         background: #83ec3d;
         border-radius: 30px; 
-        width: 239px;
+        width: 218px;
         height: 64px;
         border: none;
-        font-size: 28px ;
+        font-size: 25px ;
         line-height: 34px ;
         color: #000000;
         cursor: pointer;
