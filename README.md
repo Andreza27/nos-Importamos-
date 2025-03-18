@@ -1,10 +1,10 @@
 
 <h1>Nos Importamos </h1>
 <br>
-<br>
+
 <h2> Projeto Responsivo </h2>
 <br>
-<br> 
+ 
 <p> Este foi meu Segundo Projeto Responsivo que aprendi pelo <a href="https://rodolfomori.com.br/devclub">Dev Club</a> <br>
 utilizando as tecnologias:</p>
 <h3>
@@ -13,5 +13,5 @@ utilizando as tecnologias:</p>
 - CSS
 </h3>
 <br> 
-<img src="https://github.com/Andreza27/Nos-Importamos-/blob/main/img/Captura%20de%20tela%202025-02-10%20175633.png?raw=true" /> 
-<img src="https://github.com/Andreza27/Nos-Importamos-/blob/main/img/Captura%20de%20tela%202025-02-10%20175604.png?raw=true" />
+<img src="https://github.com/user-attachments/assets/922002a1-a108-479a-adf8-c2270859c133" /> 
+
